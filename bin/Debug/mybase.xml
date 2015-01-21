@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<head>
+  <element number="1">
+    <Name>Крипто-Сервис</Name>
+    <Site>http://cr-serv.ru/index.php?id=27</Site>
+    <Cost>5850</Cost>
+    <eToken>850</eToken>
+  </element>
+  <element number="2">
+    <Name>ОГБУ</Name>
+    <Site>http://beluc.ru/zayvka</Site>
+    <Cost>2130</Cost>
+    <eToken>830</eToken>
+  </element>
+  <element number="3">
+    <Name>Контур</Name>
+    <Site>https://ca.skbkontur.ru/order?selectedCertificateId=59</Site>
+    <Cost>4900</Cost>
+    <eToken>0</eToken>
+  </element>
+  <element number="4">
+    <Name>Калуга Астрал</Name>
+    <Site>http://astralnalog.ru/products/certification_center/price/</Site>
+    <Cost>3830</Cost>
+    <eToken>780</eToken>
+  </element>
+  <element number="5">
+    <Name>Информационный Медицинский Центр</Name>
+    <Site>http://imctax.parus-s.ru/index.php?option=com_content&amp;view=article&amp;id=141&amp;Itemid=227</Site>
+    <Cost>4000</Cost>
+    <eToken>1000</eToken>
+  </element>
+  <element number="6">
+    <Name>МАСКОМ</Name>
+    <Site>http://mascom-dv.ru/index.php/uc/prajs-list</Site>
+    <Cost>5500</Cost>
+    <eToken>1800</eToken>
+  </element>
+  <element number="7">
+    <Name>ИнфоЦентр</Name>
+    <Site>http://www.icentr.ru/price_uc.html#6</Site>
+    <Cost>2800</Cost>
+    <eToken>800</eToken>
+  </element>
+  <element number="8">
+    <Name>Сертум-Про</Name>
+    <Site>http://ca.skbkontur.ru/about/documents/14</Site>
+    <Cost>4900</Cost>
+    <eToken>0</eToken>
+  </element>
+  <element number="9">
+    <Name>Тензор</Name>
+    <Site>http://www.tensor.ru/trends/tr_udo/about_UC/services</Site>
+    <Cost>2700</Cost>
+    <eToken>700</eToken>
+  </element>
+  <element number="10">
+    <Name>ЦентрИнформ</Name>
+    <Site>https://torgi.center-inform.ru/requests/tarif_list.php?sphrase_id=91714</Site>
+    <Cost>4000</Cost>
+    <eToken>0</eToken>
+  </element>
+  <element number="11">
+    <Name>НТССофт</Name>
+    <Site>http://ca.ntssoft.ru/uslugi/</Site>
+    <Cost>4500</Cost>
+    <eToken>1000</eToken>
+  </element>
+  <element number="12">
+    <Name>Удостоверяющий центр</Name>
+    <Site>http://www.ekey.ru/poluchenie-ecp/uslugi-ceni</Site>
+    <Cost>3600</Cost>
+    <eToken>0</eToken>
+  </element>
+  <element number="13">
+    <Name>РОСТЭК</Name>
+    <Site>http://rosteck.ru/nashi_uslugi/ed_uc2/cena/</Site>
+    <Cost>5900</Cost>
+    <eToken>0</eToken>
+  </element>
+  <element number="14">
+    <Name>Юревросервис</Name>
+    <Site>http://urevroservis.ru/eds_fts.html</Site>
+    <Cost>3500</Cost>
+    <eToken>1000</eToken>
+  </element>
+  <element number="15">
+    <Name>СЗТЛС</Name>
+    <Site>http://storage.sztls.ru/file/details/0189ffe4-85e4-4326-8abd-cb186e266c09</Site>
+    <Cost>4900</Cost>
+    <eToken>0</eToken>
+  </element>
+  <element number="16">
+    <Name>КриптоСтандарт</Name>
+    <Site>http://www.cryptostandart.ru/download/docs/pricelist.pdf</Site>
+    <Cost>4000</Cost>
+    <eToken>0</eToken>
+  </element>
+  <element number="17">
+    <Name>Орбита</Name>
+    <Site>http://www.otchet-online.ru/download/%D0%9F%D1%80%D0%B0%D0%B9%D1%81%2024.03.14.pdf</Site>
+    <Cost>4450</Cost>
+    <eToken>950</eToken>
+  </element>
+  <element number="18">
+    <Name>ГАЗИНФОРМСЕРВИС</Name>
+    <Site>http://ca.gaz-is.ru/files/price-uc.pdf</Site>
+    <Cost>3600</Cost>
+    <eToken>1000</eToken>
+  </element>
+  <element number="19">
+    <Name>Такском</Name>
+    <Site>http://www.taxcom.ru/upload/price/price_78.pdf</Site>
+    <Cost>3000</Cost>
+    <eToken>1000</eToken>
+  </element>
+</head>
